@@ -386,7 +386,7 @@ body.tema-escuro .icone-tema {
   display: block;
   width: 100%;
   height: auto;
-  max-height: 920px;
+  max-height: 720px;
   object-fit: contain;
   object-position: bottom center;
 }
